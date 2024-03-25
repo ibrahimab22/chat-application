@@ -1,2 +1,14 @@
 # created by virtualenv automatically
 #*
+# Ignore virtual environment
+venv/
+lib/
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore other files that don't need to be in the repository
